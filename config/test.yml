@@ -2,7 +2,7 @@ spring:
   application:
     name: test
 server:
-  port: 9999
+  port: 9988
 eureka:
   client:
     healthcheck:
